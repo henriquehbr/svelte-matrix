@@ -1,0 +1,25 @@
+{
+	"name": "svelte-matrix",
+	"description": "Rebuild the Matrix on your Svelte applications with this amazing effect",
+	"version": "1.0.0",
+	"main": "Matrix.svelte",
+	"author": "Henrique Borges <henriqueborgeshbr@gmail.com>",
+	"license": "MIT",
+	"keywords": [
+		"svelte",
+		"matrix-effect"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/henriquehbr/svelte-matrix"
+	},
+	"scripts": {
+		"publish": "yarn auto-changelog -p && git add CHANGELOG.md"
+	},
+	"peerDependencies": {
+		"svelte": "^3.15.0"
+	},
+	"devDependencies": {
+		"auto-changelog": "^1.16.2"
+	}
+}
