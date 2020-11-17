@@ -2,8 +2,8 @@
 	import { onMount } from 'svelte'
 
 	export let chars = 'ﾊﾐﾋｰｳｼﾅﾓﾆｻﾜﾂｵﾘｱﾎﾃﾏｹﾒｴｶｷﾑﾕﾗｾﾈｽﾀﾇﾍ'.split('')
-	export let width
-	export let height
+	export let width = null
+	export let height = null
 	export const noInitialDrop = false
 	export const fontSize = 16
 	export const color = '#0f0'

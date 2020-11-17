@@ -3,6 +3,12 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
+![SS](https://i.imgur.com/EpqBGxa.jpeg)
+
+> Try it on [Codesandbox](https://codesandbox.io/embed/reverent-paper-o0ixk?fontsize=14&hidenavigation=1&theme=dark&view=preview)
+
+
+
 ## Installation
 
 ```bash
